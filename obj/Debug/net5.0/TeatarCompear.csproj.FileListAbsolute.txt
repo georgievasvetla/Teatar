@@ -1,0 +1,16 @@
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\bin\Debug\net5.0\TeatarCompear.exe
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\bin\Debug\net5.0\TeatarCompear.deps.json
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\bin\Debug\net5.0\TeatarCompear.runtimeconfig.json
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\bin\Debug\net5.0\TeatarCompear.runtimeconfig.dev.json
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\bin\Debug\net5.0\TeatarCompear.dll
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\bin\Debug\net5.0\ref\TeatarCompear.dll
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\bin\Debug\net5.0\TeatarCompear.pdb
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\obj\Debug\net5.0\TeatarCompear.csproj.AssemblyReference.cache
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\obj\Debug\net5.0\TeatarCompear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\obj\Debug\net5.0\TeatarCompear.AssemblyInfoInputs.cache
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\obj\Debug\net5.0\TeatarCompear.AssemblyInfo.cs
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\obj\Debug\net5.0\TeatarCompear.csproj.CoreCompileInputs.cache
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\obj\Debug\net5.0\TeatarCompear.dll
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\obj\Debug\net5.0\ref\TeatarCompear.dll
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\obj\Debug\net5.0\TeatarCompear.pdb
+C:\Users\s.georgieva\source\repos\11anasledqvane\TeatarCompear\obj\Debug\net5.0\TeatarCompear.genruntimeconfig.cache
